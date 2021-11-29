@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/creation-backend/creation-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-backend/creation-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-db/db-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase-v2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-db/db-redis-v2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-db/db-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-rpc-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-rpc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creation-web-base/creation-rpc-ops/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/creation-backend/creation-api/creation-api.iml" filepath="$PROJECT_DIR$/creation-backend/creation-api/creation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-backend/creation-backend.iml" filepath="$PROJECT_DIR$/creation-backend/creation-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-common/creation-common.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-common/creation-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/creation-db.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/creation-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-ops/creation-ops.iml" filepath="$PROJECT_DIR$/creation-ops/creation-ops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-api/creation-ops-api.iml" filepath="$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-api/creation-ops-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-backend.iml" filepath="$PROJECT_DIR$/creation-ops/creation-ops-backend/creation-ops-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-ops/creation-ops-frontend/creation-ops-frontend.iml" filepath="$PROJECT_DIR$/creation-ops/creation-ops-frontend/creation-ops-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-rpc-base/creation-rpc-base.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-rpc-base/creation-rpc-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-rpc-common/creation-rpc-common.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-rpc-common/creation-rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-rpc-ops/creation-rpc-ops.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-rpc-ops/creation-rpc-ops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-web-base.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-web-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/db-common/db-common.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/db-common/db-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase/db-couchbase.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase/db-couchbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase-v2/db-couchbase-v2.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/db-couchbase-v2/db-couchbase-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/db-redis/db-redis.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/db-redis/db-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-web-base/creation-db/db-redis-v2/db-redis-v2.iml" filepath="$PROJECT_DIR$/creation-web-base/creation-db/db-redis-v2/db-redis-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iqiyi.iml" filepath="$PROJECT_DIR$/.idea/iqiyi.iml" />
+    </modules>
+  </component>
+</project>

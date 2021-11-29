@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="creation-api:war">
+    <output-path>$PROJECT_DIR$/creation-backend/creation-api/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>creation-api</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="creation-api-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="creation-api:war exploded" />
+    </root>
+  </artifact>
+</component>

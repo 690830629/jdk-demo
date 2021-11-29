@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="creation-rpc-common" />
+        <module name="creation-ops-api" />
+        <module name="db-couchbase" />
+        <module name="db-redis" />
+        <module name="creation-rpc-base" />
+        <module name="db-couchbase-v2" />
+        <module name="creation-ops-frontend" />
+        <module name="db-redis-v2" />
+        <module name="creation-api" />
+        <module name="db-common" />
+        <module name="creation-common" />
+        <module name="creation-rpc-ops" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="creation-api" target="1.8" />
+      <module name="creation-backend" target="1.8" />
+      <module name="creation-common" target="1.8" />
+      <module name="creation-db" target="1.8" />
+      <module name="creation-ops" target="1.5" />
+      <module name="creation-ops-api" target="1.8" />
+      <module name="creation-ops-backend" target="1.8" />
+      <module name="creation-ops-frontend" target="1.5" />
+      <module name="creation-rpc-base" target="1.8" />
+      <module name="creation-rpc-common" target="1.8" />
+      <module name="creation-rpc-ops" target="1.8" />
+      <module name="creation-web-base" target="1.8" />
+      <module name="db-common" target="1.8" />
+      <module name="db-couchbase" target="1.8" />
+      <module name="db-couchbase-v2" target="1.8" />
+      <module name="db-redis" target="1.8" />
+      <module name="db-redis-v2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
